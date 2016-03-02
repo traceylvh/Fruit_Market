@@ -1,0 +1,48 @@
+body {
+  background: cornsilk;
+}
+
+.cash-on-hand {
+  text-align: center;
+  background-color: darkseagreen;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  text-align: center;
+}
+
+.apple-market {
+  background-color: #b0131b;
+}
+
+.apple-market h3 {
+  color: white;
+}
+
+.banana-market {
+  background-color: #edce2b;
+}
+
+.grape-market {
+  background-color: #35203b;
+}
+
+.orange-market {
+  background-color: #ed8c2b;
+}
+
+.pear-market {
+  background-color: #88a825;
+}
+
+.watermelon-market {
+  background-color: #c93a61;
+}
+
+img {
+  height: 120px;
+  float: right;
+}
